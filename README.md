@@ -1,3 +1,7 @@
+🛡 ARCHIVE PASS 
+ ────────────────
+ [ seliware ]
+
 # SLR Core: High-Efficiency Logic Environment
 
 SLR Core is a high-performance runtime engine designed for advanced logic processing and automated workflow management. This edition is optimized for developers and researchers requiring a stable, low-latency environment for executing complex instruction sets.
